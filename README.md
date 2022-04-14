@@ -1,4 +1,4 @@
-## Desafio 02 - Modelagem do banco de dados - Ignite - Nodejs
+## Desafio 06 - Modelagem do banco de dados - Ignite - Nodejs
 
 ### Sobre o desafio
 
