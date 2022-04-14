@@ -9,3 +9,5 @@ Um extra seria colocar as cardinalidades entre as entidades mas não tome isso c
 ### Desafio
 
 ![modelagem](/assets/modelagem.png)
+
+Feito por [Jailson de Oliveira](https://github.com/OJailson17) 👋
